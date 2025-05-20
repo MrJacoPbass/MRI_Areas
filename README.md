@@ -55,4 +55,4 @@ Instructions:
     it, close and reopen the tool.
     - Analyse: Performs the analysis of the area selected in the main image.
 
-NOTES: Developing the tool, questions, doubts and problems at uo244753@uniovi.es
+NOTES: Initial development, questions, doubts and problems at uo244753@uniovi.es
