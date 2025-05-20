@@ -21,13 +21,9 @@ Instrucciones básicas:
 		Para mover el zoom, haz click sobre la miniatura y arrastra.
 	- Image dimensions: Si las dimensiones de la imagen son conocidas y se introducen aquí, se calcula el área real de la zona analizada en blanco.
 	- Areas: Retorna los valores de las áreas de las zonas analizadas en blanco.
-
 	- Imagen: Muestra la imagen. En las esquinas hay 4 puntos que se pueden mover para tener más precisión en la zona que se quiere analizar.
-
 	- Zoom (+ deslizador): Mueve el deslizador para cambiar el zoom. Click y arrastra en la miniatura para mover el zoom.
-
 	- Reset: Devuelve el sistema al estado original. Si no funciona hay un reset más efectivo que es cerrar y reabrir la aplicación :)
-
 	- Analyse: Ejecuta el análisis de la zona resaltada en la imagen principal.
 
 NOTAS: En desarrollo, dudas, cuestiones, sugerencias y problemas a uo244753@uniovi.es.
@@ -51,14 +47,10 @@ Instructions:
         To move the zoomed iamge, click and draw on top of the miniature.
     - Image dimensions: If the image scale is known, these boxes allow for the computation of the real area that has been selected.
     - Areas: Returns the values computed for the white-selected areas.
-
     - Imagen: Shows the main image. Each of the four corners have handles to select more precisely the region to be analysed.
-
     - Zoom (+ slider): Click and drag on the miniature to move the zoomed image. The slider changes the zoom value.
-
     - Reset: Returns the image to the original state. If something went wrong and this button does't work properly a hard reset should solve
     it, close and reopen the tool.
-
     - Analyse: Performs the analysis of the area selected in the main image.
 
 NOTES: Developing the tool, questions, doubts and problems at uo244753@uniovi.es
