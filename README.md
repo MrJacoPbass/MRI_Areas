@@ -12,6 +12,7 @@ Backbone.py implementa la funcionalidad numérica mientras que MRI_Areas se ocup
 EJECUTAR: Idealmente, ejecutar el archivo MRI_Areas.py
 
 Instrucciones básicas:
+
 	- Open: Abrir una nueva imagen
 	- Save: Guardar la imagen mostrada
 	- Select slice: Selecciona la capa a analizar si el formato es nifti
@@ -38,6 +39,7 @@ Backbone.py implements the numerical functionality while MRI_Areas.py takes care
 TO_RUN: Ideally run the MRI_Areas.py
 
 Instructions:
+
     - Open: Opens a new image.
     - Save: Saves the image showing on the main panel.
     - Select slice: For .nifti files, this slider selects the slide.
